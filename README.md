@@ -17,3 +17,4 @@ I represented the trends in a dashboard for easy visualization.
 The printer was the most ordered product; a total of 250 orders were cancelled and only 231 orders delivered out of 1200 orders: Instagram was the highest referral source and online payment being the highest payment method. 
 
 ## Project Link
+https://github.com/OluchiConfidenceNwabuzo-Nwosu/Project-2-at-Decodelabs/blob/main/Data%20Analytics%20project%201%262%20at%20Decode%20labs.xlsx
